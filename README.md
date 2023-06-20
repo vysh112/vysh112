@@ -7,7 +7,9 @@ Skills: ROS / Python / C++ / Java / Fusion 360
 - 🔭 I’m currently working on custom ROS Navigation Stacks for Mobile Robots 
 - 🌱 I’m currently learning Machine Learning For Robotic Systems 
 - 👯 I’m looking to collaborate on exciting robotics projects that involve perception, path planning, and machine learning algorithms. 
-- ⚡ Fun fact: I have been building robots since the age of 12. 
+- ⚡ Fun fact: I have been building robots since the age of 12.
+
+Passionate about robotics since the age of 12 🤖 | RoboCup Rescue Junior Nationals 2nd Place Winner in 9th grade 🏆 | Semi-finalist in World Robotics Olympiad 🌍 | First Place in PES University Amateur Scientist mock Shark Tank event 🥇 | Second Place in IIT Bombay Young Inventor Challenge sponsored by WitBlox DIY Robotics Company 🥈 | Custom navigation stack developer for TortoiseBot, an affordable alternative to the expensive TurtleBot by RigBetel Labs 🐢 | Experienced in GPS waypoint navigation for drones 🌐 | Builder of custom 3-inch and 5-inch FPV drones for exhilarating flights 🚁 | FPV drone racer, pushing the limits of speed and agility 🏁 | Drone Trainer Pilot for FlyCamp company ✈️ | Creator of YouTube and Instagram content for Robotics Enthusiasts 🎥 | Content collaborator with Indian Robotic companies, including products TortoiseBot by RigBetel Labs, Maze Solver and Line Follower Wood-based robotic kit by JustRobotics, and Pluto Drone by DronaAviation 📸 | 3D printing enthusiast, creating micro robots with computer vision capabilities 🔬 | Junior studying Bachelor's at Manipal Institute of Technology 🎓 | Always seeking new challenges and innovative projects to build or simulate 🚀
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vysh112)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vysh112/)  
