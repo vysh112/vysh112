@@ -1,4 +1,4 @@
-### Hi there 👋, Vyshnav
+### Hi there 👋, I'm Vyshnav
 #### Robotics Enthusiast
 I'm Vyshnav, a Junior in Computer Science at MIT Manipal. My passion lies in learning and working with robotic systems, specifically in the areas of navigation, path planning, and computer vision for mobile robots and micro drones. I am dedicated to expanding my knowledge in developing and coding automation systems for complex robotic tasks in industrial and scientific domains. With over a year of experience in C++, Python, and Robot Operating System (ROS), I am proficient in these languages and frameworks. I am driven, self-motivated, and constantly strive to improve myself while supporting my team's growth. I also create Robotics content on Instagram and Youtube.
 
